@@ -1,0 +1,33 @@
+<svg width="1200" height="300" viewBox="0 0 1200 300" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>GEM banner</title>
+<desc>README banner for GEM, the Ruby IDE, showing a faceted ruby icon beside the project name and tagline</desc>
+<defs>
+<linearGradient id="rubytopB" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#FF6B5C"/>
+<stop offset="100%" stop-color="#C81E3A"/>
+</linearGradient>
+<linearGradient id="rubyleftB" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#9E1230"/>
+<stop offset="100%" stop-color="#6B0E22"/>
+</linearGradient>
+<linearGradient id="rubyrightB" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#D81B3F"/>
+<stop offset="100%" stop-color="#8A1029"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="1200" height="300" rx="20" fill="#20141A"/>
+<g transform="translate(30,20) scale(0.867)">
+<rect x="0" y="0" width="300" height="300" rx="40" fill="#26181F"/>
+<polygon points="95,90 205,90 235,120 150,132 65,120" fill="url(#rubytopB)" stroke="#4A0F1E" stroke-width="1.5"/>
+<polygon points="65,120 150,132 150,225 95,150" fill="url(#rubyleftB)" stroke="#4A0F1E" stroke-width="1.5"/>
+<polygon points="235,120 150,132 150,225 205,150" fill="url(#rubyrightB)" stroke="#4A0F1E" stroke-width="1.5"/>
+<polygon points="95,90 65,120 150,132 105,105" fill="#FF9E8F" opacity="0.5"/>
+<polygon points="205,90 235,120 150,132 195,105" fill="#FF9E8F" opacity="0.3"/>
+<polygon points="115,100 150,132 130,110" fill="#FFD9D0" opacity="0.55"/>
+<line x1="95" y1="90" x2="150" y2="132" stroke="#4A0F1E" stroke-width="1"/>
+<line x1="205" y1="90" x2="150" y2="132" stroke="#4A0F1E" stroke-width="1"/>
+</g>
+<text x="300" y="145" font-family="'Segoe UI', Arial, sans-serif" font-size="72" font-weight="700" fill="#F7E1E4" letter-spacing="4">GEM</text>
+<text x="302" y="185" font-family="'Segoe UI', Arial, sans-serif" font-size="22" fill="#C99AA4">Ruby Interpreted Development Environment</text>
+<text x="302" y="220" font-family="'Segoe UI', Arial, sans-serif" font-size="17" fill="#8A5F68">Part of the Fragillidae IDE Suite 2</text>
+</svg>

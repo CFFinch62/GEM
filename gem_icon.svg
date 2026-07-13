@@ -1,0 +1,27 @@
+<svg width="300" height="300" viewBox="0 0 300 300" xmlns="http://www.w3.org/2000/svg" role="img">
+<title>GEM IDE icon</title>
+<desc>A faceted red ruby gemstone icon on a dark background, representing the GEM Ruby IDE</desc>
+<defs>
+<linearGradient id="rubytop" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#FF6B5C"/>
+<stop offset="100%" stop-color="#C81E3A"/>
+</linearGradient>
+<linearGradient id="rubyleft" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#9E1230"/>
+<stop offset="100%" stop-color="#6B0E22"/>
+</linearGradient>
+<linearGradient id="rubyright" x1="0" y1="0" x2="1" y2="1">
+<stop offset="0%" stop-color="#D81B3F"/>
+<stop offset="100%" stop-color="#8A1029"/>
+</linearGradient>
+</defs>
+<rect x="0" y="0" width="300" height="300" rx="52" fill="#20141A"/>
+<polygon points="95,90 205,90 235,120 150,132 65,120" fill="url(#rubytop)" stroke="#4A0F1E" stroke-width="1.5"/>
+<polygon points="65,120 150,132 150,225 95,150" fill="url(#rubyleft)" stroke="#4A0F1E" stroke-width="1.5"/>
+<polygon points="235,120 150,132 150,225 205,150" fill="url(#rubyright)" stroke="#4A0F1E" stroke-width="1.5"/>
+<polygon points="95,90 65,120 150,132 105,105" fill="#FF9E8F" opacity="0.5"/>
+<polygon points="205,90 235,120 150,132 195,105" fill="#FF9E8F" opacity="0.3"/>
+<polygon points="115,100 150,132 130,110" fill="#FFD9D0" opacity="0.55"/>
+<line x1="95" y1="90" x2="150" y2="132" stroke="#4A0F1E" stroke-width="1"/>
+<line x1="205" y1="90" x2="150" y2="132" stroke="#4A0F1E" stroke-width="1"/>
+</svg>
