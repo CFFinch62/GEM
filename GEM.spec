@@ -32,6 +32,7 @@ exe = EXE(
     target_arch=None,
     codesign_identity=None,
     entitlements_file=None,
+    icon=['gem_icon.png'],
 )
 coll = COLLECT(
     exe,
