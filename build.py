@@ -72,6 +72,8 @@ def get_args() -> list[str]:
         "--icon", "gem_icon.png",
         "--add-data", f"gem_icon.svg{sep}.",
         "--add-data", f"gem_banner.svg{sep}.",
+        "--add-data", f"themes{sep}themes",
+        "--add-data", f"docs{sep}docs",
     ]
 
     if system == "Darwin":
